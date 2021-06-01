@@ -5,7 +5,6 @@ import android.graphics.Path;
 import android.graphics.RectF;
 import android.util.Log;
 
-import org.kxml2.io.KXmlParser;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 
